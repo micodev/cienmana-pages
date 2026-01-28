@@ -1,0 +1,7 @@
+# Don't track any local temp files
+*.tmp
+.DS_Store
+
+# keep apk dir committed but ignore local build artifacts if any
+# (APK files will be committed intentionally by the release script)
+# apks/

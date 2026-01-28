@@ -1,0 +1,22 @@
+{
+  "latest": {
+    "versionName": "1.0",
+    "versionCode": 1,
+    "apk_name": "app-debug-v1.0-1.apk",
+    "apk_url": "apks/app-debug-v1.0-1.apk",
+    "apk_sha256": "",
+    "apk_size": 0,
+    "built_at": ""
+  },
+  "releases": {
+    "debug": {
+      "versionName": "1.0",
+      "versionCode": 1,
+      "apk_name": "app-debug-v1.0-1.apk",
+      "apk_url": "apks/app-debug-v1.0-1.apk",
+      "apk_sha256": "",
+      "apk_size": 0,
+      "built_at": ""
+    }
+  }
+}
