@@ -7,7 +7,7 @@
     "apk_sha256": "164cc669d51762cb71f5e8face98086ad143b350813435f262f4e259ae96f92c",
     "apk_size": 22154374,
     "built_at": "2026-01-28T22:05:54Z",
-    "mandatory": false
+    "mandatory": true
   },
   "releases": {
     "debug": {
@@ -66,7 +66,7 @@
       "apk_sha256": "164cc669d51762cb71f5e8face98086ad143b350813435f262f4e259ae96f92c",
       "apk_size": 22154374,
       "built_at": "2026-01-28T22:05:54Z",
-      "mandatory": false
+      "mandatory": true
     }
   }
 }
