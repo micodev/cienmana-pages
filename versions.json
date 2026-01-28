@@ -6,7 +6,7 @@
     "apk_url": "https://micodev.github.io/mycinemana-pages/apks/app-debug-v1.0-1.apk",
     "apk_sha256": "daa9f2d6bf54701c73e96c5ce0c97728cb8710a21ace7c2ab5799efe65ed8262",
     "apk_size": 1034769,
-    "built_at": "2026-01-28T20:59:13Z"
+    "built_at": "2026-01-28T21:00:22Z"
   },
   "releases": {
     "debug": {
@@ -16,7 +16,7 @@
       "apk_url": "https://micodev.github.io/mycinemana-pages/apks/app-debug-v1.0-1.apk",
       "apk_sha256": "daa9f2d6bf54701c73e96c5ce0c97728cb8710a21ace7c2ab5799efe65ed8262",
       "apk_size": 1034769,
-      "built_at": "2026-01-28T20:59:13Z"
+      "built_at": "2026-01-28T21:00:22Z"
     }
   }
 }
