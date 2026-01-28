@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionName": "1.6",
-    "versionCode": 7,
-    "apk_name": "app-7.apk",
+    "versionName": "1.7",
+    "versionCode": 8,
+    "apk_name": "app-8.apk",
     "apk_url": "",
-    "apk_sha256": "d2cd12b90d2f4bd795368f5243e8ebd51936f762365ea0f6fa794822b97ba1bc",
-    "apk_size": 22183386,
-    "built_at": "2026-01-28T23:32:07Z"
+    "apk_sha256": "61f5eb394a590df49b03d0b8b2c85e4c5b230013f9adc9af910c95520b44c659",
+    "apk_size": 22183371,
+    "built_at": "2026-01-28T23:37:29Z"
   },
   "releases": {
     "1.5": {
@@ -20,13 +20,13 @@
       "mandatory": true
     },
     "debug": {
-      "versionName": "1.6",
-      "versionCode": 7,
-      "apk_name": "app-7.apk",
+      "versionName": "1.7",
+      "versionCode": 8,
+      "apk_name": "app-8.apk",
       "apk_url": "",
-      "apk_sha256": "d2cd12b90d2f4bd795368f5243e8ebd51936f762365ea0f6fa794822b97ba1bc",
-      "apk_size": 22183386,
-      "built_at": "2026-01-28T23:32:07Z"
+      "apk_sha256": "61f5eb394a590df49b03d0b8b2c85e4c5b230013f9adc9af910c95520b44c659",
+      "apk_size": 22183371,
+      "built_at": "2026-01-28T23:37:29Z"
     }
   }
 }
