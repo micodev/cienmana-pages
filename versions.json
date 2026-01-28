@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionName": "1.4",
-    "versionCode": 5,
-    "apk_name": "app-5.apk",
-    "apk_url": "https://micodev.github.io/cienmana-pages/apks/app-5.apk",
+    "versionName": "1.5",
+    "versionCode": 6,
+    "apk_name": "app-6.apk",
+    "apk_url": "https://micodev.github.io/cienmana-pages/apks/app-6.apk",
     "apk_sha256": "164cc669d51762cb71f5e8face98086ad143b350813435f262f4e259ae96f92c",
     "apk_size": 22154374,
-    "built_at": "2026-01-28T22:05:54Z",
+    "built_at": "2026-01-28T22:18:16Z",
     "mandatory": true
   },
   "releases": {
@@ -66,6 +66,16 @@
       "apk_sha256": "164cc669d51762cb71f5e8face98086ad143b350813435f262f4e259ae96f92c",
       "apk_size": 22154374,
       "built_at": "2026-01-28T22:05:54Z",
+      "mandatory": true
+    },
+    "1.5": {
+      "versionName": "1.5",
+      "versionCode": 6,
+      "apk_name": "app-6.apk",
+      "apk_url": "https://micodev.github.io/cienmana-pages/apks/app-6.apk",
+      "apk_sha256": "164cc669d51762cb71f5e8face98086ad143b350813435f262f4e259ae96f92c",
+      "apk_size": 22154374,
+      "built_at": "2026-01-28T22:18:16Z",
       "mandatory": true
     }
   }
