@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionName": "1.8",
-    "versionCode": 9,
-    "apk_name": "app-release-v1.8-9.apk",
-    "apk_url": "https://micodev.github.io/cienmana-pages/apks/app-release-v1.8-9.apk",
-    "apk_sha256": "582e3cf34312ac7b6163a9d6af46b81a8755a48d5df7ec6df67c36c49e3d6400",
-    "apk_size": 3557192,
-    "built_at": "2026-03-20T20:15:49Z",
+    "versionName": "1.9",
+    "versionCode": 10,
+    "apk_name": "app-release-v1.9-10.apk",
+    "apk_url": "https://micodev.github.io/cienmana-pages/apks/app-release-v1.9-10.apk",
+    "apk_sha256": "6a839c9d24139d8f6c894f89ad4380749644b4f353dd2fbf30bcce61e7659999",
+    "apk_size": 3557197,
+    "built_at": "2026-03-20T20:29:51Z",
     "mandatory": false,
     "release_notes_url": null
   },
@@ -49,6 +49,17 @@
       "apk_sha256": "582e3cf34312ac7b6163a9d6af46b81a8755a48d5df7ec6df67c36c49e3d6400",
       "apk_size": 3557192,
       "built_at": "2026-03-20T20:15:49Z",
+      "mandatory": false,
+      "release_notes_url": null
+    },
+    "10": {
+      "versionName": "1.9",
+      "versionCode": 10,
+      "apk_name": "app-release-v1.9-10.apk",
+      "apk_url": "https://micodev.github.io/cienmana-pages/apks/app-release-v1.9-10.apk",
+      "apk_sha256": "6a839c9d24139d8f6c894f89ad4380749644b4f353dd2fbf30bcce61e7659999",
+      "apk_size": 3557197,
+      "built_at": "2026-03-20T20:29:51Z",
       "mandatory": false,
       "release_notes_url": null
     }
